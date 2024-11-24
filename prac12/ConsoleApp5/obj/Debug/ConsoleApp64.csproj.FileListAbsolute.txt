@@ -1,0 +1,7 @@
+E:\работа\ConsoleApp64\bin\Debug\ConsoleApp64.exe.config
+E:\работа\ConsoleApp64\bin\Debug\ConsoleApp64.exe
+E:\работа\ConsoleApp64\bin\Debug\ConsoleApp64.pdb
+E:\работа\ConsoleApp64\obj\Debug\ConsoleApp64.csproj.AssemblyReference.cache
+E:\работа\ConsoleApp64\obj\Debug\ConsoleApp64.csproj.CoreCompileInputs.cache
+E:\работа\ConsoleApp64\obj\Debug\ConsoleApp64.exe
+E:\работа\ConsoleApp64\obj\Debug\ConsoleApp64.pdb
